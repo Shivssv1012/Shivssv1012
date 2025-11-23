@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shiv
+- 🛠️ Skills: JAVA, SQL, HTML/CSS, DSA, WEB Development
 - 👀 I’m interested in ...AI, Problem Solving, Open Source Collaboration
 - 🌱 I’m currently learning ...Data Science,Advance Algorithms, Machine Learning and AI
 - 💞️ I’m looking to collaborate on ...AI and Coding Challenges

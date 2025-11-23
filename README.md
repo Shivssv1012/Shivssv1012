@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shiv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...JAVA & DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...AI, Problem Solving, Open Source Collaboration
+- 🌱 I’m currently learning ...Data Science,Advance Algorithms, Machine Learning and AI
+- 💞️ I’m looking to collaborate on ...AI and Coding Challenges
 - 📫 How to reach me ...ssv10122000@gmail.com
 
 <!---
